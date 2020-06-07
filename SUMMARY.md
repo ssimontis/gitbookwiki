@@ -4,6 +4,8 @@
 
 ## Config Mgmt
 
+* [Ansible](config-mgmt/ansible/README.md)
+  * [Mastering Ansible](config-mgmt/ansible/mastering-ansible.md)
 * [Testing Tools](config-mgmt/testing-tools.md)
 * [Terraform](config-mgmt/terraform.md)
 
